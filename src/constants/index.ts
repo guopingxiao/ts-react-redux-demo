@@ -1,0 +1,3 @@
+
+export const INCRESE_LEVEL = 'INCRESE_LEVEL'
+export const DECRESE_LEVEL = 'DECRESE_LEVEL'
